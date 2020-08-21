@@ -22,4 +22,5 @@ I did this for a customer test long time ago. Please use this as a reference on 
 | Res | Reset     |
 
 ## G321D REV.4 Wiring Example
-![G321D Wiring](/images/wiring.png)
+This example uses a LM7805 as voltage regulator, in order to get 5V form a commong ground.
+![G321D Wiring](/images/wiring.png =450x)
