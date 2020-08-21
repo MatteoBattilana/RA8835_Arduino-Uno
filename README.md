@@ -20,3 +20,6 @@ I did this for a customer test long time ago. Please use this as a reference on 
 | D7  | Digital 9 |
 | CS  | Analog 3  |
 | Res | Reset     |
+
+## G321D REV.4 Wiring Example
+![G321D Wiring](/images/wiring.png)
